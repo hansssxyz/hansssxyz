@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/hansssxyz/hansssxyz/main/25_spring_photo.jpg"
+    alt="Spring 2025 Photo"
+    width="200"
+    style="border-radius:8px;"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Yihan Shen</h1>
 <h3 align="center">Columbia Computer Science'25, Interested in Backend Software Development/Machine Learning/Matrix Completion</h3>
 
